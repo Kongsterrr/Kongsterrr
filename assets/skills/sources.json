@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Java",
+    "width": 83,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg",
+    "background": "rgb(185, 91, 0)",
+    "group": "Languages",
+    "file": "assets/skills/java.png"
+  },
+  {
+    "name": "Python",
+    "width": 104,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/python.svg",
+    "background": "rgb(53, 114, 165)",
+    "group": "Languages",
+    "file": "assets/skills/python.png"
+  },
+  {
+    "name": "JavaScript",
+    "width": 131,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/javascript.svg",
+    "background": "rgb(247, 223, 30)",
+    "group": "Languages",
+    "file": "assets/skills/javascript.png"
+  },
+  {
+    "name": "TypeScript",
+    "width": 131,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/typescript.svg",
+    "background": "rgb(49, 120, 198)",
+    "group": "Languages",
+    "file": "assets/skills/typescript.png"
+  },
+  {
+    "name": "HTML",
+    "width": 86,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/html5.svg",
+    "background": "rgb(200, 68, 36)",
+    "group": "Languages",
+    "file": "assets/skills/html.png"
+  },
+  {
+    "name": "CSS",
+    "width": 76,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/css3.svg",
+    "background": "rgb(21, 114, 182)",
+    "group": "Languages",
+    "file": "assets/skills/css.png"
+  },
+  {
+    "name": "Spring Boot",
+    "width": 139,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/springboot.svg",
+    "background": "rgb(57, 125, 20)",
+    "group": "Frameworks",
+    "file": "assets/skills/spring-boot.png"
+  },
+  {
+    "name": "Flask",
+    "width": 91,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/flask.svg",
+    "background": "rgb(36, 36, 36)",
+    "group": "Frameworks",
+    "file": "assets/skills/flask.png"
+  },
+  {
+    "name": "Django",
+    "width": 104,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/django.svg",
+    "background": "rgb(12, 75, 51)",
+    "group": "Frameworks",
+    "file": "assets/skills/django.png"
+  },
+  {
+    "name": "React",
+    "width": 93,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/react.svg",
+    "background": "rgb(24, 56, 70)",
+    "group": "Frameworks",
+    "file": "assets/skills/react.png"
+  },
+  {
+    "name": "Angular",
+    "width": 113,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/angular.svg",
+    "background": "rgb(189, 0, 53)",
+    "group": "Frameworks",
+    "file": "assets/skills/angular.png"
+  },
+  {
+    "name": "Next.js",
+    "width": 105,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/nextdotjs.svg",
+    "background": "rgb(23, 23, 23)",
+    "group": "Frameworks",
+    "file": "assets/skills/next-js.png"
+  },
+  {
+    "name": "Redux",
+    "width": 94,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/redux.svg",
+    "background": "rgb(100, 65, 164)",
+    "group": "Frameworks",
+    "file": "assets/skills/redux.png"
+  },
+  {
+    "name": "Bootstrap",
+    "width": 129,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bootstrap.svg",
+    "background": "rgb(93, 53, 190)",
+    "group": "Frameworks",
+    "file": "assets/skills/bootstrap.png"
+  },
+  {
+    "name": "MySQL",
+    "width": 95,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mysql.svg",
+    "background": "rgb(7, 80, 107)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/mysql.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "width": 137,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/postgresql.svg",
+    "background": "rgb(51, 103, 145)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/postgresql.png"
+  },
+  {
+    "name": "MongoDB",
+    "width": 117,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mongodb.svg",
+    "background": "rgb(35, 127, 69)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/mongodb.png"
+  },
+  {
+    "name": "DynamoDB",
+    "width": 125,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazondynamodb.svg",
+    "background": "rgb(64, 83, 173)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/dynamodb.png"
+  },
+  {
+    "name": "RDS",
+    "width": 76,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazonrds.svg",
+    "background": "rgb(61, 62, 149)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/rds.png"
+  },
+  {
+    "name": "SQLAlchemy",
+    "width": 139,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sqlalchemy.svg",
+    "background": "rgb(159, 37, 43)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/sqlalchemy.png"
+  },
+  {
+    "name": "PySpark",
+    "width": 110,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/apachespark.svg",
+    "background": "rgb(184, 79, 0)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/pyspark.png"
+  },
+  {
+    "name": "AWS Glue",
+    "width": 117,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/gh/awslabs/aws-icons-for-plantuml@v20.0/dist/Analytics/Glue.png",
+    "background": "rgb(97, 54, 151)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/aws-glue.png"
+  },
+  {
+    "name": "Supabase",
+    "width": 119,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/supabase.svg",
+    "background": "rgb(25, 102, 75)",
+    "group": "Databases & data engineering",
+    "file": "assets/skills/supabase.png"
+  },
+  {
+    "name": "AWS",
+    "width": 79,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazonwebservices.svg",
+    "background": "rgb(35, 47, 62)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/aws.png"
+  },
+  {
+    "name": "Azure",
+    "width": 93,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg",
+    "background": "rgb(0, 102, 173)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/azure.png"
+  },
+  {
+    "name": "Docker",
+    "width": 104,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/docker.svg",
+    "background": "rgb(8, 109, 183)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/docker.png"
+  },
+  {
+    "name": "Git",
+    "width": 72,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/git.svg",
+    "background": "rgb(201, 56, 34)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/git.png"
+  },
+  {
+    "name": "Kafka",
+    "width": 93,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/apachekafka.svg",
+    "background": "rgb(37, 37, 37)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/kafka.png"
+  },
+  {
+    "name": "RabbitMQ",
+    "width": 119,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rabbitmq.svg",
+    "background": "rgb(184, 68, 0)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/rabbitmq.png"
+  },
+  {
+    "name": "Jira",
+    "width": 80,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/jira.svg",
+    "background": "rgb(20, 91, 215)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/jira.png"
+  },
+  {
+    "name": "Postman",
+    "width": 115,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/postman.svg",
+    "background": "rgb(183, 67, 38)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/postman.png"
+  },
+  {
+    "name": "Stripe",
+    "width": 96,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/stripe.svg",
+    "background": "rgb(81, 69, 189)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/stripe.png"
+  },
+  {
+    "name": "Mailchimp",
+    "width": 125,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mailchimp.svg",
+    "background": "rgb(255, 224, 27)",
+    "group": "Cloud, tools & integrations",
+    "file": "assets/skills/mailchimp.png"
+  },
+  {
+    "name": "JUnit",
+    "width": 89,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/junit5.svg",
+    "background": "rgb(30, 107, 71)",
+    "group": "Testing & quality",
+    "file": "assets/skills/junit.png"
+  },
+  {
+    "name": "Mockito",
+    "width": 129,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/gh/mockito/mockito@main/config/javadoc/resources/org/mockito/logo@2x.png",
+    "background": "rgb(66, 77, 24)",
+    "group": "Testing & quality",
+    "file": "assets/skills/mockito.png"
+  },
+  {
+    "name": "Jasmine",
+    "width": 108,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/jasmine.svg",
+    "background": "rgb(128, 61, 120)",
+    "group": "Testing & quality",
+    "file": "assets/skills/jasmine.png"
+  },
+  {
+    "name": "SonarQube",
+    "width": 131,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sonarqube.svg",
+    "background": "rgb(18, 96, 130)",
+    "group": "Testing & quality",
+    "file": "assets/skills/sonarqube.png"
+  },
+  {
+    "name": "Checkmarx",
+    "width": 133,
+    "height": 30,
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/checkmarx.svg",
+    "background": "rgb(33, 72, 71)",
+    "group": "Testing & quality",
+    "file": "assets/skills/checkmarx.png"
+  },
+  {
+    "name": "Invicti",
+    "width": 74,
+    "height": 30,
+    "logo": null,
+    "background": "rgb(37, 68, 97)",
+    "group": "Testing & quality",
+    "file": "assets/skills/invicti.png"
+  }
+]
